@@ -1,6 +1,10 @@
 # [SQL][Tableau] COVID-19 Data Visualization in 2021
 
 ## Introduction
+...Analyzing such data could find the answers to the following questions like:
+-
+
+
 
 ## Link to Tableau Visualization 
 Please visit the viz in desktop mode (or zoom out slightly to 75%).
