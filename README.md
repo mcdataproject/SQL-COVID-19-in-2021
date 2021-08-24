@@ -1,1 +1,1 @@
-# [SQL][Tableau] COVID-19 data in 2021
+# [SQL][Tableau] COVID-19 Data Visualization in 2021
