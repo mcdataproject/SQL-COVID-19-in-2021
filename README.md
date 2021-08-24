@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Link to Tableau Visualization 
-Please visit the viz in desktop mode (or zoom out slightly).
+Please visit the viz in desktop mode (or zoom out slightly to 75%).
 https://public.tableau.com/app/profile/mc7917/viz/COVID_19_in2021_Data_Project/2
 
 ## Data Collection
