@@ -2,6 +2,10 @@
 
 ## Introduction
 
+## Link to Tableau Visualization 
+Please visit the viz in desktop mode (or zoom out slightly).
+https://public.tableau.com/app/profile/mc7917/viz/COVID_19_in2021_Data_Project/2
+
 ## Data Collection
 There are three datasets:
 1. **covid_data.csv**: contains all details of new cases, total cases, new deaths and total deaths of each country from 24 February 2020 to 10 August 2021.
