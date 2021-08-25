@@ -1,7 +1,7 @@
 # [SQL][Tableau] COVID-19 Data Visualization in 2021
 
 ## Introduction
-In late December 2019, a new coronavirus was identified in China causing severe respiratory disease including pneumonia. The disease caused as a result of infection is named - coronavirus disease (COVID-19). In this project, we will extract and visualize the infection and vaccination data over 230 countries. Analyzing such data could find the answers to the following questions like:
+In late December 2019, a new coronavirus was identified in China causing severe respiratory disease including pneumonia. The disease caused as a result of infection is named - coronavirus disease (COVID-19). In this project, we will extract and visualize the latest trend of infection cases, deaths and vaccination data over 230 countries. Analyzing such data could find the answers to the following questions like:
 - What are the highest infection count and percentage of the population infected as of August 2021?
 - What are the total infection cases and vaccinations by continent in 2021?
 - What is the relationship between the total vaccinations and hospitalizations in 2021?
