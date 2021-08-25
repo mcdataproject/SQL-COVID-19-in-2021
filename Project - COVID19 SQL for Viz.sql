@@ -5,7 +5,7 @@ SELECT
 	SUM(new_deaths)/SUM(New_Cases)*100 as death_percent
 FROM covid_data
 WHERE continent IS NOT NULL -- To filter out 'continent', such as Asia, Europe, Africa etc.
-ORDER BY 1,2
+ORDER BY total_cases, total_deaths
 
 -- 2. Highest Infection Count and %Population Infected for Infected Cases Map as of Aug 2021
 SELECT
